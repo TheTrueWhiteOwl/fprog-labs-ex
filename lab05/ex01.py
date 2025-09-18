@@ -1,6 +1,4 @@
 #!/usr/bin/env python
 
 def cinco(num: int) -> bool:
-    while num == 5:
-        return True
-    return False
+    return num == 5
