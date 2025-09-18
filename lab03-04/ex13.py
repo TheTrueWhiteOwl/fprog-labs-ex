@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 num = int(input("Escreva um numero para eu escrever a tabuada da multiplicação: "))
 i = 1

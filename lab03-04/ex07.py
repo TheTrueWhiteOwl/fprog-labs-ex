@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 salario_p_hora = float(input("Por favor indique o salário "))
 horas = float(input("Por favor indique a quantidade de horas trabalhadas: "))

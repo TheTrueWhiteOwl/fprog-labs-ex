@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 print("Vou pedir-lhe dois numeros")
 x: int = int(input("Escreva o primeiro numero, x = "))

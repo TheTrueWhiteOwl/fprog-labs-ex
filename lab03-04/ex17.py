@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 num = int(input("Escreva um inteiro: "))
 num, ultimo_digito = divmod(num, 10)

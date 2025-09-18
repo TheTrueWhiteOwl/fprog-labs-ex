@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 while True:
     num = int(input("Escreva um número de segundos (um número negativo para terminar) "))

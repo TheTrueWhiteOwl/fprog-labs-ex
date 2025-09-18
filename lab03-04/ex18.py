@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 valor: float = float(input("Valor em EUR: "))
 valor_cent: int = int(valor * 100)

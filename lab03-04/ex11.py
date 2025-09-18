@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 num = int(input("Escreva um inteiro positivo: "))
 num_invert = 0

@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 seconds: int = int(input("Escreva um numero de segundos? "))
 

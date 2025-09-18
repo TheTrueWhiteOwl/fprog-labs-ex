@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#!/usr/bin/env python
 
 seconds: float = float(input("Escreva um numero de segundos? "))
 minutes: float = seconds / 60
