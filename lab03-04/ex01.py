@@ -1,0 +1,8 @@
+#! /usr/bin/env python
+
+print("Vou pedir-lhe dois numeros")
+x: int = int(input("Escreva o primeiro numero, x = "))
+y: int = int(input("Escreva o segundo numero, y = "))
+conta = (x+3*y)*(x-y)
+
+print(f"O valor de (x+3*y)*(x-y) e: {conta}")
