@@ -20,6 +20,9 @@ def validar_numero_anos(n: int):
 
 
 def valor(q: int, j: float, n: int) -> float:
+    validar_taxa_de_juros(j)
+    validar_quantia_depositada(q)
+    validar_numero_anos(n)
     return q * (1 + j)**n
 
 def duplicar(q: float, j: float) -> int:
